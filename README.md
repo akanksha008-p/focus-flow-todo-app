@@ -1,14 +1,34 @@
-# Todo-app
-A simple Todo List web
-application made using HTML, CSS
-and JavaScript.
+# Focus Flow 🪷
 
-Features:
-- Add tasks
-- Delete tasks
+A simple and aesthetic To-Do List web app that helps you organize daily tasks and stay productive.
+
+✨ Features
+
+- Add new tasks
 - Mark tasks as completed
+- Undo completed tasks
+- Delete tasks
+- Tasks saved using Local Storage
+- Dark mode support
+- Smooth animations
+- Responsive design
 
-Technologies:
-HTML
+🛠️ Technologies Used
+
+- HTML
+- CSS
+- JavaScript
+
+📸 Preview
+
+(Add your app screenshot here)
+
+🚀 Future Improvements
+
+- Add task categories
+- Add deadlines/reminders
+- Add drag and drop task sorting
+
+Made with 💻 and curiosity.
 CSS
 JavaScript
