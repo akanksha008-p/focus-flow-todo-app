@@ -29,6 +29,6 @@ A simple and aesthetic To-Do List web app that helps you organize daily tasks an
 - Add deadlines/reminders
 - Add drag and drop task sorting
 
-Made with 💻 and curiosity.
+Made with 💻 and curiosity
 CSS
 JavaScript
