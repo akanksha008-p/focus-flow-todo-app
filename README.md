@@ -21,7 +21,8 @@ A simple and aesthetic To-Do List web app that helps you organize daily tasks an
 
 📸 Preview
 
-(Add your app screenshot here)
+![Focus Flow Preview]
+(focus-flow-preview.png)
 
 🚀 Future Improvements
 
